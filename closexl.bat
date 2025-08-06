@@ -1,0 +1,1 @@
+taskkill /F /T /FI "USERNAME eq %USERNAME%" /IM excel.exe
